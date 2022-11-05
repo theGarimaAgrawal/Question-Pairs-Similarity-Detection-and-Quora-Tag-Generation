@@ -3,3 +3,5 @@ train.csv
 train.db
 train_no_dup.db
 Processed.db
+lr_with_equal_weight.pkl
+model.pkl
